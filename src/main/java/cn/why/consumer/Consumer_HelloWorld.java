@@ -10,7 +10,7 @@ import java.util.concurrent.TimeoutException;
  */
 public class Consumer_HelloWorld {
     public static void main(String[] args) throws IOException, TimeoutException {
-
+        // 22
         // 1、创建链接工厂
         ConnectionFactory factory = new ConnectionFactory();
         // 2、 设置参数
